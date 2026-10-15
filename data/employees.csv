@@ -1,0 +1,501 @@
+employee_id,department,job_role,experience_years,training_hours,attendance_pct,job_satisfaction,previous_performance_score,performance_score,performance_category
+EMP0001,Technology,Senior Specialist,5.2,21.7,93.5,4,97.6,81.8,High
+EMP0002,Operations,Team Lead,0.5,14.2,89.5,4,68.9,58.5,Low
+EMP0003,Operations,Specialist,2.6,25.3,92.5,2,88.5,76.6,Average
+EMP0004,Finance,Associate,6.8,19.3,100.0,5,67.7,75.5,Average
+EMP0005,Finance,Associate,2.1,41.7,90.0,1,73.1,73.0,Average
+EMP0006,Human Resources,Senior Specialist,7.6,30.1,87.0,3,54.1,65.4,Average
+EMP0007,Technology,Team Lead,8.2,8.3,98.7,4,64.6,74.3,Average
+EMP0008,Operations,Associate,6.8,32.1,96.5,1,72.5,67.5,Average
+EMP0009,Sales,Associate,9.4,14.7,90.9,3,89.0,73.5,Average
+EMP0010,Technology,Senior Specialist,1.2,17.1,86.1,3,72.7,64.6,Average
+EMP0011,Finance,Associate,10.8,27.8,90.3,4,86.6,74.1,Average
+EMP0012,Human Resources,Team Lead,2.4,18.1,93.7,1,77.7,53.1,Low
+EMP0013,Operations,Specialist,6.0,34.7,99.8,2,89.5,66.7,Average
+EMP0014,Operations,Associate,16.7,14.7,88.8,2,69.3,58.7,Low
+EMP0015,Operations,Manager,4.2,16.6,93.6,4,98.0,80.4,High
+EMP0016,Operations,Associate,5.6,16.1,97.4,2,64.2,68.0,Average
+EMP0017,Finance,Specialist,2.4,17.2,82.1,3,60.8,56.0,Low
+EMP0018,Technology,Associate,16.6,37.2,99.2,4,55.5,75.1,Average
+EMP0019,Human Resources,Associate,2.6,31.5,88.1,4,98.0,86.5,High
+EMP0020,Finance,Associate,8.7,44.5,95.7,1,79.8,67.8,Average
+EMP0021,Finance,Associate,12.4,51.2,95.2,5,66.0,79.2,Average
+EMP0022,Sales,Associate,9.2,11.6,99.4,1,85.0,64.0,Average
+EMP0023,Technology,Associate,7.1,24.8,96.8,1,78.3,75.7,Average
+EMP0024,Human Resources,Senior Specialist,5.9,9.9,82.1,1,93.6,72.5,Average
+EMP0025,Operations,Senior Specialist,1.8,14.7,90.1,2,51.4,40.3,Low
+EMP0026,Operations,Specialist,16.1,16.4,94.7,5,66.8,70.3,Average
+EMP0027,Finance,Specialist,6.7,11.3,93.0,2,64.4,71.3,Average
+EMP0028,Human Resources,Specialist,5.6,11.4,96.4,4,46.3,51.7,Low
+EMP0029,Finance,Team Lead,2.2,22.3,97.9,3,82.7,75.7,Average
+EMP0030,Finance,Team Lead,5.9,9.4,97.0,1,66.8,63.0,Average
+EMP0031,Finance,Associate,5.4,34.1,92.9,3,78.9,61.6,Average
+EMP0032,Sales,Associate,16.7,13.0,84.8,1,98.0,76.5,Average
+EMP0033,Technology,Associate,5.6,57.7,91.7,3,65.8,57.5,Low
+EMP0034,Finance,Associate,5.8,18.6,96.1,3,64.9,55.8,Low
+EMP0035,Human Resources,Senior Specialist,2.2,24.9,88.5,3,71.4,72.7,Average
+EMP0036,Technology,Specialist,3.1,8.5,97.2,2,81.8,68.8,Average
+EMP0037,Human Resources,Associate,8.0,44.5,98.5,4,63.2,65.1,Average
+EMP0038,Human Resources,Specialist,1.0,37.4,94.6,3,62.4,65.5,Average
+EMP0039,Sales,Specialist,10.8,27.6,78.7,2,82.7,68.1,Average
+EMP0040,Operations,Associate,10.9,7.8,87.6,3,74.5,62.1,Average
+EMP0041,Technology,Team Lead,2.8,26.5,100.0,1,45.5,57.1,Low
+EMP0042,Operations,Associate,7.1,10.5,91.3,5,55.3,51.2,Low
+EMP0043,Operations,Manager,12.7,41.5,84.1,4,88.0,80.2,High
+EMP0044,Sales,Associate,5.1,33.7,100.0,2,74.8,63.8,Average
+EMP0045,Technology,Team Lead,4.4,25.1,94.1,4,60.9,52.3,Low
+EMP0046,Human Resources,Manager,4.8,0.0,99.5,4,68.0,55.2,Low
+EMP0047,Finance,Manager,6.7,12.2,95.4,4,70.2,79.5,Average
+EMP0048,Human Resources,Team Lead,3.4,32.3,96.3,1,78.8,70.1,Average
+EMP0049,Operations,Team Lead,4.1,38.6,95.8,5,53.7,54.1,Low
+EMP0050,Operations,Senior Specialist,6.8,37.3,97.5,5,59.9,55.8,Low
+EMP0051,Operations,Team Lead,3.9,4.9,100.0,5,73.3,67.1,Average
+EMP0052,Technology,Associate,2.1,27.6,98.9,5,68.8,81.1,High
+EMP0053,Sales,Senior Specialist,0.9,36.2,86.1,5,76.9,71.5,Average
+EMP0054,Finance,Specialist,5.7,4.1,96.2,4,55.2,67.4,Average
+EMP0055,Finance,Team Lead,12.2,23.9,99.7,1,74.3,70.7,Average
+EMP0056,Technology,Specialist,7.4,27.3,100.0,3,83.1,78.3,Average
+EMP0057,Finance,Specialist,2.1,20.4,91.9,2,75.8,53.0,Low
+EMP0058,Technology,Senior Specialist,3.0,1.8,99.8,2,71.7,68.7,Average
+EMP0059,Operations,Specialist,4.4,20.1,98.6,5,68.8,64.7,Average
+EMP0060,Operations,Associate,17.0,20.1,100.0,5,60.0,73.2,Average
+EMP0061,Human Resources,Specialist,17.6,22.2,90.2,3,69.1,60.6,Average
+EMP0062,Operations,Specialist,16.3,17.2,91.5,4,85.1,76.7,Average
+EMP0063,Sales,Associate,6.2,18.7,92.5,1,68.6,60.0,Average
+EMP0064,Human Resources,Specialist,30.0,23.5,91.5,2,59.3,63.8,Average
+EMP0065,Finance,Specialist,3.2,29.3,89.5,5,64.1,69.6,Average
+EMP0066,Sales,Specialist,4.2,20.3,80.2,3,72.4,60.2,Average
+EMP0067,Human Resources,Specialist,10.2,19.1,91.8,3,65.5,57.3,Low
+EMP0068,Sales,Senior Specialist,6.8,25.1,95.8,3,75.8,82.5,High
+EMP0069,Technology,Specialist,7.1,0.9,91.5,2,76.3,70.6,Average
+EMP0070,Finance,Manager,2.5,29.7,100.0,5,80.7,71.0,Average
+EMP0071,Operations,Manager,5.4,24.0,94.1,4,87.1,79.8,Average
+EMP0072,Technology,Specialist,3.2,24.5,100.0,4,82.0,68.2,Average
+EMP0073,Finance,Specialist,1.7,35.5,95.3,2,58.8,49.5,Low
+EMP0074,Technology,Senior Specialist,3.5,0.6,98.1,4,59.2,67.5,Average
+EMP0075,Operations,Team Lead,6.8,0.3,95.4,5,69.1,51.6,Low
+EMP0076,Finance,Senior Specialist,9.1,27.3,100.0,4,64.6,76.4,Average
+EMP0077,Sales,Team Lead,0.9,23.9,94.3,3,56.3,56.2,Low
+EMP0078,Sales,Senior Specialist,5.5,26.0,96.5,2,64.7,60.3,Average
+EMP0079,Finance,Senior Specialist,5.2,18.5,95.8,3,64.3,66.0,Average
+EMP0080,Operations,Specialist,6.6,32.0,92.6,2,61.9,64.1,Average
+EMP0081,Human Resources,Senior Specialist,2.2,35.2,96.0,4,66.2,60.6,Average
+EMP0082,Finance,Associate,2.2,29.8,100.0,1,84.1,73.0,Average
+EMP0083,Technology,Senior Specialist,12.4,20.9,92.6,1,72.4,66.0,Average
+EMP0084,Human Resources,Team Lead,2.8,0.0,96.1,4,98.0,66.1,Average
+EMP0085,Operations,Associate,4.1,33.2,100.0,2,72.0,62.2,Average
+EMP0086,Operations,Senior Specialist,4.4,38.7,99.7,3,66.5,77.8,Average
+EMP0087,Technology,Associate,3.3,31.7,94.1,3,70.0,78.5,Average
+EMP0088,Sales,Senior Specialist,7.8,13.4,82.1,3,73.1,69.6,Average
+EMP0089,Operations,Associate,7.4,32.1,96.6,4,75.2,60.3,Average
+EMP0090,Human Resources,Manager,5.0,34.3,82.9,2,94.9,78.9,Average
+EMP0091,Finance,Associate,3.4,42.7,100.0,4,59.9,72.1,Average
+EMP0092,Human Resources,Manager,4.7,13.5,94.8,2,80.3,71.7,Average
+EMP0093,Human Resources,Team Lead,5.9,21.3,99.0,2,72.5,71.6,Average
+EMP0094,Sales,Senior Specialist,3.0,33.0,89.5,3,51.1,59.8,Low
+EMP0095,Human Resources,Team Lead,8.2,24.7,86.2,5,79.2,73.8,Average
+EMP0096,Sales,Team Lead,10.7,10.6,95.3,2,85.2,65.9,Average
+EMP0097,Sales,Manager,13.8,29.0,93.8,3,59.7,49.6,Low
+EMP0098,Operations,Specialist,13.3,30.9,91.5,1,69.9,65.8,Average
+EMP0099,Operations,Senior Specialist,4.4,25.1,94.4,1,49.3,51.9,Low
+EMP0100,Technology,Associate,6.1,26.6,100.0,4,54.9,65.6,Average
+EMP0101,Human Resources,Senior Specialist,4.9,20.9,98.2,4,82.6,62.8,Average
+EMP0102,Technology,Associate,4.9,41.7,99.2,2,64.4,68.9,Average
+EMP0103,Human Resources,Senior Specialist,4.7,13.2,98.2,4,56.7,75.9,Average
+EMP0104,Technology,Senior Specialist,5.6,17.0,100.0,2,72.8,66.3,Average
+EMP0105,Operations,Specialist,11.9,24.1,93.0,2,63.7,60.2,Average
+EMP0106,Operations,Specialist,7.0,34.5,83.7,3,64.4,64.4,Average
+EMP0107,Operations,Team Lead,2.1,6.0,93.1,2,78.9,78.7,Average
+EMP0108,Operations,Team Lead,10.4,8.3,98.1,5,56.1,54.2,Low
+EMP0109,Finance,Specialist,6.5,0.0,89.2,3,59.1,56.4,Low
+EMP0110,Operations,Senior Specialist,7.9,24.4,93.1,2,71.8,57.9,Low
+EMP0111,Sales,Manager,6.9,10.6,90.5,3,81.6,64.2,Average
+EMP0112,Operations,Associate,7.1,19.4,100.0,4,84.9,72.0,Average
+EMP0113,Finance,Associate,7.3,31.9,97.7,2,62.0,71.5,Average
+EMP0114,Finance,Associate,1.1,16.3,97.3,5,81.2,85.5,High
+EMP0115,Finance,Senior Specialist,7.8,26.8,97.1,3,60.6,67.3,Average
+EMP0116,Finance,Specialist,3.2,20.4,93.8,4,91.9,73.5,Average
+EMP0117,Technology,Team Lead,3.8,32.1,95.0,5,56.4,86.4,High
+EMP0118,Technology,Senior Specialist,5.6,29.7,88.1,3,85.9,71.2,Average
+EMP0119,Sales,Specialist,15.2,15.7,83.1,1,62.1,51.9,Low
+EMP0120,Technology,Team Lead,2.4,22.0,94.8,4,94.2,65.6,Average
+EMP0121,Finance,Team Lead,5.5,36.5,95.6,1,77.1,79.8,Average
+EMP0122,Operations,Specialist,4.6,28.7,100.0,3,57.8,67.4,Average
+EMP0123,Operations,Specialist,10.3,7.2,100.0,5,63.7,84.0,High
+EMP0124,Finance,Specialist,4.5,31.9,100.0,3,79.4,61.1,Average
+EMP0125,Human Resources,Associate,6.6,11.0,89.0,4,82.6,79.6,Average
+EMP0126,Finance,Associate,2.4,41.0,92.2,3,69.2,66.0,Average
+EMP0127,Technology,Manager,11.5,36.3,96.4,2,70.5,76.3,Average
+EMP0128,Operations,Specialist,1.6,27.5,100.0,2,79.1,53.2,Low
+EMP0129,Finance,Specialist,7.7,25.9,100.0,3,71.6,80.1,High
+EMP0130,Operations,Senior Specialist,6.6,21.5,99.6,1,54.5,60.2,Average
+EMP0131,Finance,Senior Specialist,7.3,32.1,92.1,3,60.2,63.2,Average
+EMP0132,Finance,Manager,1.6,19.6,89.6,3,72.8,69.8,Average
+EMP0133,Technology,Team Lead,4.4,26.8,97.9,5,84.6,73.5,Average
+EMP0134,Finance,Specialist,10.0,34.5,88.5,1,89.4,68.3,Average
+EMP0135,Operations,Specialist,16.6,17.3,92.8,5,79.4,71.4,Average
+EMP0136,Sales,Manager,5.2,16.6,93.4,3,73.4,51.0,Low
+EMP0137,Operations,Senior Specialist,9.4,9.7,100.0,4,79.0,77.8,Average
+EMP0138,Technology,Manager,6.2,11.2,92.2,3,62.0,69.9,Average
+EMP0139,Sales,Associate,5.4,2.1,81.8,2,68.2,48.1,Low
+EMP0140,Finance,Team Lead,4.1,32.8,96.5,5,60.1,71.0,Average
+EMP0141,Human Resources,Senior Specialist,5.6,45.7,90.5,2,55.0,57.6,Low
+EMP0142,Sales,Associate,8.8,41.1,94.2,1,74.0,68.1,Average
+EMP0143,Sales,Senior Specialist,9.3,4.5,93.6,4,72.2,61.4,Average
+EMP0144,Finance,Senior Specialist,1.9,32.7,92.6,4,78.3,65.7,Average
+EMP0145,Human Resources,Associate,3.8,41.1,98.0,5,76.6,82.4,High
+EMP0146,Human Resources,Specialist,2.3,18.5,86.3,3,72.9,61.6,Average
+EMP0147,Technology,Team Lead,5.8,25.2,91.4,1,76.7,82.2,High
+EMP0148,Sales,Specialist,4.3,0.0,97.4,1,69.5,56.0,Low
+EMP0149,Human Resources,Specialist,7.1,27.2,90.9,3,75.0,60.0,Average
+EMP0150,Technology,Specialist,7.5,11.2,86.0,2,61.3,66.0,Average
+EMP0151,Human Resources,Specialist,0.6,26.4,97.3,5,74.4,75.3,Average
+EMP0152,Sales,Manager,5.6,5.3,99.6,1,78.0,68.4,Average
+EMP0153,Human Resources,Team Lead,12.0,30.5,93.8,5,62.0,79.5,Average
+EMP0154,Sales,Associate,3.8,36.3,84.2,2,70.6,56.3,Low
+EMP0155,Finance,Manager,3.7,14.6,97.5,1,62.5,55.4,Low
+EMP0156,Operations,Team Lead,10.7,10.4,85.7,2,63.7,56.4,Low
+EMP0157,Technology,Specialist,9.6,0.0,95.5,1,56.5,41.5,Low
+EMP0158,Finance,Team Lead,2.5,20.8,89.6,3,85.2,69.6,Average
+EMP0159,Finance,Associate,9.0,17.0,88.2,2,82.8,77.3,Average
+EMP0160,Operations,Manager,3.0,5.4,91.8,3,76.4,64.8,Average
+EMP0161,Human Resources,Senior Specialist,3.7,29.4,93.1,3,93.7,66.2,Average
+EMP0162,Operations,Senior Specialist,2.5,18.6,90.8,1,67.7,44.2,Low
+EMP0163,Finance,Associate,1.9,11.1,96.9,1,98.0,82.9,High
+EMP0164,Finance,Team Lead,6.1,17.3,91.8,1,67.3,58.9,Low
+EMP0165,Finance,Associate,1.6,36.9,98.9,1,73.1,57.9,Low
+EMP0166,Human Resources,Associate,6.2,31.2,95.4,1,65.2,55.9,Low
+EMP0167,Sales,Associate,6.1,22.4,90.5,2,74.5,50.7,Low
+EMP0168,Technology,Team Lead,5.0,31.4,89.7,3,80.0,84.1,High
+EMP0169,Sales,Associate,3.9,10.1,85.8,2,68.6,52.5,Low
+EMP0170,Technology,Manager,3.4,24.4,95.5,2,91.3,85.4,High
+EMP0171,Technology,Senior Specialist,2.3,25.8,92.2,3,72.9,67.6,Average
+EMP0172,Technology,Associate,13.9,18.4,82.1,3,73.2,77.0,Average
+EMP0173,Operations,Associate,4.8,29.2,91.3,2,59.1,57.3,Low
+EMP0174,Operations,Associate,4.7,14.6,89.5,2,75.0,66.4,Average
+EMP0175,Operations,Senior Specialist,2.6,30.1,100.0,3,68.4,71.1,Average
+EMP0176,Finance,Team Lead,12.9,30.6,85.5,1,62.7,66.3,Average
+EMP0177,Operations,Associate,3.5,0.0,86.8,3,60.7,53.9,Low
+EMP0178,Technology,Team Lead,6.7,38.3,99.5,5,98.0,87.6,High
+EMP0179,Human Resources,Associate,7.6,0.0,100.0,2,66.8,71.4,Average
+EMP0180,Finance,Team Lead,6.1,16.6,90.3,1,52.5,44.9,Low
+EMP0181,Human Resources,Manager,1.6,36.3,90.8,4,61.6,64.1,Average
+EMP0182,Technology,Team Lead,8.7,20.2,97.1,1,69.4,63.7,Average
+EMP0183,Finance,Senior Specialist,3.5,6.4,82.4,1,76.6,62.0,Average
+EMP0184,Operations,Team Lead,9.5,10.9,84.7,1,76.7,57.8,Low
+EMP0185,Finance,Associate,5.3,36.3,92.6,5,78.1,76.8,Average
+EMP0186,Finance,Associate,7.9,0.9,100.0,5,62.3,60.5,Average
+EMP0187,Technology,Associate,12.4,37.5,91.8,3,74.1,58.4,Low
+EMP0188,Sales,Specialist,8.5,23.3,94.5,4,59.5,63.1,Average
+EMP0189,Sales,Senior Specialist,8.0,9.7,99.7,4,62.6,54.7,Low
+EMP0190,Sales,Senior Specialist,9.0,17.0,100.0,4,59.0,49.8,Low
+EMP0191,Operations,Team Lead,2.9,11.8,91.1,3,55.7,55.7,Low
+EMP0192,Operations,Associate,9.8,34.4,93.9,5,82.8,80.4,High
+EMP0193,Operations,Senior Specialist,4.6,32.8,100.0,4,78.3,77.8,Average
+EMP0194,Sales,Associate,4.7,3.4,86.4,1,81.7,63.3,Average
+EMP0195,Human Resources,Specialist,5.9,19.2,99.1,2,70.5,47.0,Low
+EMP0196,Technology,Senior Specialist,4.2,13.6,88.9,5,79.3,61.4,Average
+EMP0197,Sales,Manager,2.4,39.5,94.5,3,48.9,73.6,Average
+EMP0198,Technology,Senior Specialist,5.6,7.8,92.8,2,80.4,57.8,Low
+EMP0199,Sales,Associate,4.7,43.3,89.2,5,72.1,76.4,Average
+EMP0200,Human Resources,Senior Specialist,4.6,23.6,89.1,4,77.5,64.4,Average
+EMP0201,Sales,Associate,5.2,10.1,95.4,3,74.6,63.6,Average
+EMP0202,Human Resources,Team Lead,0.7,15.9,99.0,3,58.2,52.7,Low
+EMP0203,Finance,Senior Specialist,4.6,14.4,93.4,1,52.0,55.5,Low
+EMP0204,Operations,Associate,13.4,8.7,94.4,2,61.5,56.9,Low
+EMP0205,Finance,Associate,12.7,25.1,96.9,3,76.8,66.8,Average
+EMP0206,Sales,Associate,5.8,9.3,89.1,5,78.3,59.6,Low
+EMP0207,Operations,Manager,5.6,0.0,97.7,2,53.6,52.8,Low
+EMP0208,Human Resources,Specialist,0.5,19.4,98.1,1,58.2,42.6,Low
+EMP0209,Sales,Team Lead,3.7,2.4,100.0,3,61.3,61.7,Average
+EMP0210,Operations,Senior Specialist,8.9,15.0,92.1,5,65.7,87.2,High
+EMP0211,Sales,Senior Specialist,4.2,13.1,91.7,3,53.7,65.8,Average
+EMP0212,Operations,Associate,11.0,13.5,97.8,2,52.9,58.2,Low
+EMP0213,Operations,Manager,10.5,48.0,98.1,4,60.1,68.9,Average
+EMP0214,Finance,Specialist,3.6,24.7,91.3,4,71.0,51.5,Low
+EMP0215,Operations,Senior Specialist,6.1,26.9,92.0,2,55.8,45.7,Low
+EMP0216,Sales,Senior Specialist,14.1,2.7,96.7,5,68.6,79.1,Average
+EMP0217,Technology,Senior Specialist,1.6,16.2,89.9,3,82.7,63.0,Average
+EMP0218,Technology,Manager,4.2,26.6,91.9,1,54.4,49.0,Low
+EMP0219,Finance,Associate,1.4,11.7,94.4,3,67.5,57.5,Low
+EMP0220,Human Resources,Specialist,2.8,34.9,99.0,5,82.3,68.3,Average
+EMP0221,Technology,Specialist,16.7,9.6,91.0,2,65.0,51.9,Low
+EMP0222,Finance,Specialist,4.2,20.6,84.8,3,63.1,58.8,Low
+EMP0223,Operations,Associate,0.9,17.0,84.4,4,84.0,59.4,Low
+EMP0224,Sales,Associate,2.4,26.0,87.7,4,66.3,56.0,Low
+EMP0225,Operations,Specialist,1.3,16.3,87.4,5,83.3,64.2,Average
+EMP0226,Sales,Specialist,6.2,20.7,93.2,1,75.1,66.5,Average
+EMP0227,Human Resources,Specialist,7.5,21.2,88.1,3,65.9,59.6,Low
+EMP0228,Finance,Senior Specialist,9.9,15.2,90.5,3,75.8,66.9,Average
+EMP0229,Finance,Senior Specialist,8.6,29.8,90.1,1,73.8,70.1,Average
+EMP0230,Technology,Specialist,1.6,26.9,91.8,4,82.3,71.6,Average
+EMP0231,Finance,Specialist,7.2,22.9,100.0,1,63.4,57.0,Low
+EMP0232,Human Resources,Associate,5.0,18.8,97.3,3,70.5,66.2,Average
+EMP0233,Technology,Senior Specialist,10.8,33.6,94.1,2,69.3,73.4,Average
+EMP0234,Operations,Specialist,9.3,21.2,91.7,1,78.4,62.7,Average
+EMP0235,Finance,Associate,18.1,20.3,91.8,5,57.7,66.3,Average
+EMP0236,Operations,Specialist,2.6,25.3,95.6,2,82.2,60.8,Average
+EMP0237,Operations,Specialist,2.3,44.4,96.9,2,75.6,60.9,Average
+EMP0238,Finance,Associate,3.8,7.9,89.5,5,54.2,62.2,Average
+EMP0239,Sales,Senior Specialist,5.2,33.2,94.2,5,84.5,82.5,High
+EMP0240,Operations,Senior Specialist,3.3,1.3,83.8,1,96.8,69.8,Average
+EMP0241,Technology,Senior Specialist,2.7,26.6,95.1,2,82.0,72.4,Average
+EMP0242,Finance,Senior Specialist,6.9,42.9,97.8,4,87.1,82.1,High
+EMP0243,Technology,Senior Specialist,3.8,29.9,92.6,4,71.0,75.4,Average
+EMP0244,Operations,Specialist,3.2,26.0,100.0,5,50.1,66.8,Average
+EMP0245,Operations,Team Lead,1.6,17.3,89.6,3,47.9,58.5,Low
+EMP0246,Technology,Senior Specialist,0.5,24.4,95.1,1,73.1,61.7,Average
+EMP0247,Operations,Specialist,13.0,21.0,93.8,5,62.9,77.9,Average
+EMP0248,Finance,Senior Specialist,12.7,14.6,93.5,1,59.0,59.0,Low
+EMP0249,Operations,Specialist,9.5,20.5,93.4,1,69.2,64.7,Average
+EMP0250,Technology,Specialist,8.0,26.4,94.5,4,77.4,75.3,Average
+EMP0251,Technology,Senior Specialist,3.6,14.8,98.2,4,52.6,60.9,Average
+EMP0252,Finance,Team Lead,8.3,14.3,100.0,1,64.6,54.1,Low
+EMP0253,Technology,Manager,2.1,7.7,94.0,1,88.1,72.3,Average
+EMP0254,Sales,Specialist,6.0,28.7,98.1,3,57.1,83.3,High
+EMP0255,Operations,Specialist,2.9,30.5,90.5,2,80.4,63.4,Average
+EMP0256,Technology,Team Lead,8.3,26.8,97.8,4,64.2,69.6,Average
+EMP0257,Operations,Specialist,14.7,35.6,90.2,3,76.5,68.3,Average
+EMP0258,Technology,Team Lead,2.4,25.1,99.5,3,83.2,69.9,Average
+EMP0259,Technology,Specialist,3.7,28.7,100.0,3,78.9,83.9,High
+EMP0260,Finance,Associate,5.9,27.6,93.4,2,80.9,62.2,Average
+EMP0261,Operations,Associate,1.0,22.9,83.0,2,56.2,46.0,Low
+EMP0262,Technology,Team Lead,1.3,17.6,91.3,4,83.4,60.0,Average
+EMP0263,Sales,Associate,14.4,50.6,100.0,3,59.8,61.9,Average
+EMP0264,Human Resources,Specialist,6.9,18.6,96.8,3,73.1,52.1,Low
+EMP0265,Human Resources,Specialist,3.4,16.0,95.2,3,73.1,68.8,Average
+EMP0266,Finance,Associate,5.4,29.2,99.0,2,75.8,88.7,High
+EMP0267,Finance,Specialist,3.8,27.0,96.4,5,74.0,69.2,Average
+EMP0268,Sales,Senior Specialist,6.0,7.1,100.0,3,59.9,45.5,Low
+EMP0269,Operations,Associate,4.0,37.5,98.6,4,53.8,67.0,Average
+EMP0270,Finance,Team Lead,5.1,22.9,100.0,5,80.5,71.2,Average
+EMP0271,Sales,Team Lead,8.8,10.7,95.8,5,72.2,81.0,High
+EMP0272,Technology,Specialist,8.4,38.3,98.5,4,83.8,77.1,Average
+EMP0273,Technology,Associate,13.9,31.5,92.5,4,69.5,65.4,Average
+EMP0274,Human Resources,Senior Specialist,7.3,8.8,91.0,3,53.1,52.9,Low
+EMP0275,Finance,Associate,5.7,45.3,100.0,4,81.6,83.1,High
+EMP0276,Finance,Specialist,15.2,31.9,95.1,2,65.6,64.4,Average
+EMP0277,Finance,Manager,4.8,23.9,98.0,4,74.1,67.0,Average
+EMP0278,Operations,Manager,0.6,43.1,94.6,1,62.2,57.3,Low
+EMP0279,Technology,Team Lead,9.5,25.9,91.1,5,89.7,72.3,Average
+EMP0280,Technology,Specialist,6.7,23.7,94.1,2,59.5,62.2,Average
+EMP0281,Sales,Senior Specialist,5.5,16.1,100.0,4,66.0,51.3,Low
+EMP0282,Finance,Senior Specialist,9.7,31.0,96.8,1,71.3,62.4,Average
+EMP0283,Operations,Specialist,4.0,29.7,85.4,1,56.9,58.3,Low
+EMP0284,Finance,Senior Specialist,0.6,24.2,92.9,5,74.0,73.2,Average
+EMP0285,Finance,Associate,9.8,14.5,100.0,5,89.3,82.9,High
+EMP0286,Human Resources,Associate,3.3,25.6,92.9,2,64.1,56.6,Low
+EMP0287,Technology,Specialist,2.5,23.2,85.0,1,74.7,70.2,Average
+EMP0288,Finance,Associate,0.7,8.0,100.0,5,37.0,56.0,Low
+EMP0289,Finance,Associate,9.3,6.3,97.4,5,69.5,70.0,Average
+EMP0290,Finance,Team Lead,0.3,30.8,93.6,1,66.2,67.5,Average
+EMP0291,Human Resources,Manager,12.3,0.0,92.1,4,60.2,66.1,Average
+EMP0292,Sales,Senior Specialist,4.3,26.5,99.4,2,83.0,67.4,Average
+EMP0293,Human Resources,Team Lead,9.6,18.3,91.3,4,66.1,55.2,Low
+EMP0294,Sales,Manager,7.4,39.7,99.7,3,67.9,73.0,Average
+EMP0295,Finance,Associate,17.0,18.1,96.7,1,65.5,65.0,Average
+EMP0296,Finance,Specialist,7.3,31.9,95.2,2,47.0,63.3,Average
+EMP0297,Human Resources,Specialist,12.0,19.2,94.7,3,56.4,51.8,Low
+EMP0298,Finance,Associate,3.6,25.4,93.1,4,81.5,63.8,Average
+EMP0299,Sales,Team Lead,1.3,32.8,99.2,1,44.7,54.7,Low
+EMP0300,Technology,Specialist,10.6,18.4,89.7,5,60.8,65.2,Average
+EMP0301,Sales,Specialist,1.3,36.0,85.9,4,65.2,49.1,Low
+EMP0302,Human Resources,Associate,9.2,12.1,97.1,5,90.9,79.8,Average
+EMP0303,Technology,Associate,2.2,27.5,97.2,5,79.2,58.5,Low
+EMP0304,Human Resources,Manager,6.8,35.1,96.4,1,63.3,53.3,Low
+EMP0305,Finance,Associate,17.2,31.9,96.0,1,85.7,83.8,High
+EMP0306,Technology,Associate,8.8,47.0,92.4,4,61.1,82.3,High
+EMP0307,Sales,Specialist,4.8,14.8,97.9,1,82.1,55.1,Low
+EMP0308,Finance,Specialist,7.5,7.5,93.8,1,53.7,47.8,Low
+EMP0309,Sales,Senior Specialist,3.7,12.1,91.6,3,82.9,68.9,Average
+EMP0310,Technology,Specialist,21.4,31.9,92.4,5,65.1,89.0,High
+EMP0311,Operations,Associate,3.1,30.0,100.0,4,57.7,56.1,Low
+EMP0312,Operations,Associate,5.2,25.2,85.3,3,67.4,55.9,Low
+EMP0313,Technology,Team Lead,8.2,10.5,96.5,1,73.3,75.6,Average
+EMP0314,Sales,Senior Specialist,7.2,33.2,85.6,2,64.1,58.7,Low
+EMP0315,Sales,Senior Specialist,7.7,9.3,93.5,4,76.6,74.7,Average
+EMP0316,Operations,Senior Specialist,3.8,37.9,91.8,1,63.0,47.1,Low
+EMP0317,Operations,Team Lead,4.6,58.3,83.6,3,77.4,72.2,Average
+EMP0318,Operations,Associate,10.3,28.4,95.9,1,75.3,50.1,Low
+EMP0319,Human Resources,Specialist,9.9,31.0,92.1,2,69.3,56.0,Low
+EMP0320,Operations,Senior Specialist,7.3,18.1,83.5,2,64.7,64.4,Average
+EMP0321,Sales,Specialist,13.0,2.3,98.2,4,71.8,66.6,Average
+EMP0322,Technology,Team Lead,10.5,16.8,100.0,5,76.6,73.8,Average
+EMP0323,Operations,Specialist,9.7,10.9,100.0,1,94.7,65.2,Average
+EMP0324,Human Resources,Team Lead,1.3,6.6,95.8,4,81.3,67.1,Average
+EMP0325,Human Resources,Team Lead,7.2,44.7,94.2,4,81.7,80.8,High
+EMP0326,Sales,Specialist,6.4,27.3,100.0,5,98.0,92.6,High
+EMP0327,Sales,Manager,14.1,28.6,100.0,5,76.2,57.2,Low
+EMP0328,Technology,Senior Specialist,5.0,20.3,99.7,1,75.8,58.7,Low
+EMP0329,Technology,Team Lead,6.0,21.9,89.3,4,78.4,73.8,Average
+EMP0330,Finance,Specialist,2.2,35.6,95.0,3,57.9,60.1,Average
+EMP0331,Finance,Specialist,2.6,23.6,96.2,1,64.7,60.9,Average
+EMP0332,Sales,Senior Specialist,14.1,30.4,85.0,2,63.9,65.5,Average
+EMP0333,Sales,Associate,7.7,21.6,96.3,5,77.8,69.8,Average
+EMP0334,Human Resources,Specialist,17.2,19.9,100.0,3,67.9,63.5,Average
+EMP0335,Finance,Manager,4.9,7.1,97.2,2,71.7,60.0,Average
+EMP0336,Human Resources,Senior Specialist,1.6,0.3,100.0,2,83.0,73.5,Average
+EMP0337,Human Resources,Associate,4.4,20.9,94.9,5,80.4,65.5,Average
+EMP0338,Sales,Specialist,3.8,24.7,93.6,2,68.1,60.7,Average
+EMP0339,Sales,Associate,9.0,8.6,95.9,1,62.0,55.1,Low
+EMP0340,Human Resources,Associate,8.7,23.6,89.9,3,83.6,82.2,High
+EMP0341,Operations,Manager,8.0,24.6,89.2,5,79.3,71.4,Average
+EMP0342,Sales,Specialist,20.6,0.0,100.0,1,50.7,60.4,Average
+EMP0343,Operations,Specialist,12.5,13.0,100.0,2,66.2,71.0,Average
+EMP0344,Finance,Senior Specialist,2.8,28.9,89.0,3,72.0,65.9,Average
+EMP0345,Human Resources,Associate,10.8,28.6,98.8,1,79.3,64.9,Average
+EMP0346,Sales,Specialist,5.7,10.2,93.6,4,80.9,66.9,Average
+EMP0347,Human Resources,Senior Specialist,4.8,25.9,95.7,2,73.4,63.2,Average
+EMP0348,Human Resources,Senior Specialist,13.5,36.3,96.3,1,77.0,76.8,Average
+EMP0349,Technology,Manager,2.6,33.3,99.0,2,70.8,68.6,Average
+EMP0350,Technology,Senior Specialist,10.3,22.9,94.4,5,61.9,70.8,Average
+EMP0351,Finance,Specialist,9.2,18.4,100.0,5,66.9,60.5,Average
+EMP0352,Technology,Team Lead,2.6,16.4,95.5,3,70.2,57.4,Low
+EMP0353,Sales,Manager,1.2,29.6,97.1,3,69.6,83.0,High
+EMP0354,Finance,Senior Specialist,5.3,26.3,89.8,5,47.4,58.1,Low
+EMP0355,Human Resources,Manager,11.6,31.6,100.0,1,65.2,57.2,Low
+EMP0356,Human Resources,Team Lead,7.2,25.6,96.3,4,70.7,81.2,High
+EMP0357,Technology,Team Lead,13.8,33.8,97.6,4,66.6,75.7,Average
+EMP0358,Human Resources,Associate,6.9,25.1,86.0,4,67.0,67.5,Average
+EMP0359,Technology,Senior Specialist,14.4,33.4,89.9,2,75.9,70.6,Average
+EMP0360,Operations,Specialist,3.5,34.4,100.0,4,57.1,59.8,Low
+EMP0361,Human Resources,Senior Specialist,8.0,14.3,95.4,4,50.5,56.0,Low
+EMP0362,Human Resources,Senior Specialist,4.1,2.3,84.4,5,65.8,50.1,Low
+EMP0363,Sales,Manager,5.1,42.5,99.2,1,79.2,69.7,Average
+EMP0364,Human Resources,Manager,6.0,27.1,91.3,4,90.3,80.0,High
+EMP0365,Technology,Specialist,7.2,3.4,100.0,5,79.4,87.1,High
+EMP0366,Finance,Senior Specialist,3.1,15.4,93.6,2,52.4,53.8,Low
+EMP0367,Finance,Senior Specialist,7.7,33.3,95.0,4,67.2,51.3,Low
+EMP0368,Sales,Specialist,5.8,20.6,99.9,1,73.1,61.7,Average
+EMP0369,Technology,Associate,1.7,17.9,89.5,4,72.1,86.1,High
+EMP0370,Operations,Associate,1.0,40.8,89.0,4,76.5,75.5,Average
+EMP0371,Sales,Team Lead,11.6,11.4,93.0,1,59.0,49.6,Low
+EMP0372,Operations,Specialist,5.0,14.4,98.1,1,70.8,63.2,Average
+EMP0373,Finance,Manager,1.5,26.5,87.3,4,75.0,62.9,Average
+EMP0374,Sales,Specialist,15.9,28.7,85.7,2,79.9,59.7,Low
+EMP0375,Human Resources,Manager,8.2,30.0,98.1,3,60.3,60.8,Average
+EMP0376,Technology,Specialist,7.1,34.9,91.0,1,65.9,62.4,Average
+EMP0377,Operations,Team Lead,2.9,26.4,92.0,5,37.6,38.4,Low
+EMP0378,Operations,Associate,1.6,29.9,84.7,3,62.5,47.7,Low
+EMP0379,Sales,Senior Specialist,6.4,20.9,90.6,5,63.7,66.4,Average
+EMP0380,Sales,Team Lead,5.5,24.8,94.0,1,57.8,53.0,Low
+EMP0381,Technology,Manager,2.3,25.3,98.7,2,72.0,68.7,Average
+EMP0382,Human Resources,Team Lead,2.2,26.6,90.1,4,69.3,56.7,Low
+EMP0383,Human Resources,Associate,2.1,33.3,100.0,4,42.9,59.5,Low
+EMP0384,Sales,Specialist,2.0,30.7,90.6,4,72.6,58.3,Low
+EMP0385,Technology,Associate,3.4,24.5,90.6,5,58.9,75.3,Average
+EMP0386,Technology,Associate,7.1,14.3,100.0,5,75.8,57.5,Low
+EMP0387,Technology,Senior Specialist,7.9,24.8,95.1,1,54.6,47.5,Low
+EMP0388,Human Resources,Senior Specialist,5.4,23.7,91.2,2,70.4,66.1,Average
+EMP0389,Human Resources,Team Lead,6.2,26.3,93.2,5,66.6,82.5,High
+EMP0390,Technology,Team Lead,8.2,50.5,100.0,3,73.6,78.9,Average
+EMP0391,Operations,Senior Specialist,0.8,17.7,100.0,5,71.5,72.6,Average
+EMP0392,Technology,Team Lead,6.5,29.1,89.9,3,66.9,66.6,Average
+EMP0393,Sales,Associate,12.9,36.8,93.8,1,51.6,47.0,Low
+EMP0394,Finance,Associate,4.9,25.2,94.5,3,52.3,51.5,Low
+EMP0395,Operations,Senior Specialist,11.3,52.1,89.1,5,63.0,63.0,Average
+EMP0396,Human Resources,Team Lead,4.9,19.5,93.7,4,69.9,56.6,Low
+EMP0397,Technology,Associate,8.5,27.9,94.0,1,62.7,61.5,Average
+EMP0398,Technology,Specialist,7.0,14.4,99.7,2,77.5,57.9,Low
+EMP0399,Sales,Senior Specialist,2.1,19.8,100.0,5,66.6,70.2,Average
+EMP0400,Sales,Associate,2.5,27.0,92.4,5,58.4,51.0,Low
+EMP0401,Human Resources,Specialist,14.4,34.2,92.9,4,66.7,72.3,Average
+EMP0402,Operations,Team Lead,9.8,27.8,97.3,1,72.7,61.2,Average
+EMP0403,Sales,Senior Specialist,5.2,39.1,91.1,4,73.9,83.6,High
+EMP0404,Human Resources,Associate,4.7,22.9,96.9,5,92.5,80.7,High
+EMP0405,Finance,Team Lead,2.9,20.0,93.6,4,62.0,73.3,Average
+EMP0406,Finance,Specialist,7.4,56.4,89.2,3,69.1,65.1,Average
+EMP0407,Finance,Team Lead,3.1,28.7,89.2,3,75.1,69.0,Average
+EMP0408,Technology,Specialist,4.2,15.4,100.0,2,69.7,54.6,Low
+EMP0409,Human Resources,Senior Specialist,3.4,15.7,93.2,2,64.0,54.4,Low
+EMP0410,Technology,Specialist,9.4,12.7,100.0,4,51.4,57.2,Low
+EMP0411,Technology,Specialist,5.0,35.2,91.4,1,63.9,54.3,Low
+EMP0412,Sales,Team Lead,6.2,19.6,95.5,1,57.1,45.7,Low
+EMP0413,Sales,Associate,2.1,25.5,100.0,2,49.3,40.1,Low
+EMP0414,Technology,Associate,3.4,23.2,88.7,4,60.5,41.4,Low
+EMP0415,Technology,Specialist,6.3,32.8,84.5,4,57.4,53.9,Low
+EMP0416,Operations,Senior Specialist,1.3,13.8,100.0,3,77.0,70.8,Average
+EMP0417,Human Resources,Team Lead,4.7,11.1,89.9,3,77.2,52.9,Low
+EMP0418,Technology,Manager,5.5,26.7,93.9,1,59.2,46.8,Low
+EMP0419,Sales,Specialist,1.9,31.2,91.1,2,66.9,75.1,Average
+EMP0420,Finance,Specialist,11.0,28.0,95.3,1,47.7,48.1,Low
+EMP0421,Human Resources,Associate,7.1,14.3,89.2,4,64.1,62.5,Average
+EMP0422,Operations,Senior Specialist,5.0,32.1,93.1,4,74.8,75.8,Average
+EMP0423,Operations,Manager,3.2,15.1,96.2,2,79.9,70.5,Average
+EMP0424,Finance,Senior Specialist,1.2,17.7,89.0,2,61.4,44.2,Low
+EMP0425,Finance,Senior Specialist,10.4,12.7,90.5,2,82.6,67.2,Average
+EMP0426,Technology,Specialist,3.9,39.6,92.3,5,51.8,50.8,Low
+EMP0427,Human Resources,Manager,1.6,31.6,86.9,3,55.0,76.6,Average
+EMP0428,Human Resources,Specialist,3.1,31.3,91.9,4,78.5,58.1,Low
+EMP0429,Technology,Associate,7.7,39.0,94.6,3,90.1,69.5,Average
+EMP0430,Operations,Specialist,6.6,57.8,92.0,4,75.9,67.3,Average
+EMP0431,Technology,Associate,2.3,3.5,92.6,3,69.5,46.7,Low
+EMP0432,Operations,Associate,11.6,15.1,93.9,2,43.7,58.7,Low
+EMP0433,Human Resources,Associate,1.6,16.6,90.7,5,45.7,71.5,Average
+EMP0434,Technology,Specialist,13.2,13.8,97.5,4,71.6,66.3,Average
+EMP0435,Finance,Senior Specialist,6.4,11.1,100.0,4,65.7,54.7,Low
+EMP0436,Technology,Specialist,4.2,20.4,91.7,5,56.7,44.4,Low
+EMP0437,Finance,Specialist,4.6,9.4,96.4,2,70.8,58.8,Low
+EMP0438,Human Resources,Manager,5.9,28.0,92.8,1,71.4,59.8,Low
+EMP0439,Technology,Team Lead,8.1,24.6,95.8,3,81.3,68.9,Average
+EMP0440,Sales,Senior Specialist,1.0,29.8,100.0,2,71.6,66.8,Average
+EMP0441,Human Resources,Specialist,3.0,30.1,96.5,3,84.7,75.4,Average
+EMP0442,Sales,Team Lead,5.8,31.2,85.1,2,70.1,66.7,Average
+EMP0443,Technology,Associate,11.9,19.5,96.3,2,68.6,60.7,Average
+EMP0444,Finance,Specialist,11.6,49.5,100.0,2,82.8,68.8,Average
+EMP0445,Finance,Manager,15.0,26.8,92.9,2,58.3,67.5,Average
+EMP0446,Operations,Specialist,11.3,1.7,99.0,4,98.0,78.1,Average
+EMP0447,Sales,Senior Specialist,2.8,12.0,90.5,3,74.5,71.1,Average
+EMP0448,Human Resources,Senior Specialist,5.5,3.1,86.6,3,74.6,68.4,Average
+EMP0449,Finance,Senior Specialist,11.3,24.2,94.7,1,76.3,55.8,Low
+EMP0450,Sales,Specialist,10.6,22.5,85.2,3,92.5,64.1,Average
+EMP0451,Human Resources,Associate,4.8,18.4,92.8,1,79.5,55.4,Low
+EMP0452,Human Resources,Specialist,7.9,48.1,100.0,2,50.7,51.2,Low
+EMP0453,Finance,Associate,3.9,30.6,84.5,3,86.8,77.0,Average
+EMP0454,Technology,Team Lead,1.4,32.7,87.6,1,65.9,62.9,Average
+EMP0455,Finance,Specialist,5.1,12.8,88.8,2,71.3,69.2,Average
+EMP0456,Finance,Senior Specialist,4.9,12.0,93.7,2,54.6,57.3,Low
+EMP0457,Technology,Team Lead,3.8,24.4,92.2,5,76.3,75.6,Average
+EMP0458,Operations,Team Lead,8.1,26.1,100.0,5,62.2,78.0,Average
+EMP0459,Human Resources,Specialist,4.7,1.7,98.8,1,71.2,60.4,Average
+EMP0460,Technology,Specialist,7.3,21.8,96.5,4,66.6,67.6,Average
+EMP0461,Operations,Manager,9.3,24.2,94.7,4,93.1,91.5,High
+EMP0462,Technology,Senior Specialist,22.2,21.4,96.0,2,93.8,82.7,High
+EMP0463,Operations,Team Lead,5.2,14.2,89.7,3,70.6,60.4,Average
+EMP0464,Finance,Manager,12.0,17.5,98.3,4,70.8,64.0,Average
+EMP0465,Technology,Team Lead,6.6,21.9,88.4,2,65.5,67.6,Average
+EMP0466,Human Resources,Associate,6.8,25.1,98.2,1,83.3,76.2,Average
+EMP0467,Technology,Senior Specialist,5.2,31.3,99.9,2,66.1,64.8,Average
+EMP0468,Finance,Associate,6.2,37.0,95.1,2,64.9,72.7,Average
+EMP0469,Technology,Senior Specialist,4.7,20.5,93.1,2,81.7,53.4,Low
+EMP0470,Human Resources,Manager,10.7,18.5,96.0,2,63.5,60.7,Average
+EMP0471,Operations,Specialist,3.1,29.3,79.7,1,69.5,56.5,Low
+EMP0472,Human Resources,Specialist,1.4,31.3,95.5,5,51.0,54.1,Low
+EMP0473,Finance,Associate,3.7,18.8,93.4,1,78.5,80.8,High
+EMP0474,Finance,Manager,3.4,33.5,93.7,4,93.3,80.3,High
+EMP0475,Operations,Associate,3.7,35.8,97.5,4,78.7,67.8,Average
+EMP0476,Operations,Associate,5.0,39.5,93.6,4,87.5,76.0,Average
+EMP0477,Human Resources,Associate,3.7,45.3,88.3,5,59.8,48.9,Low
+EMP0478,Technology,Associate,5.0,13.6,93.3,1,72.8,52.8,Low
+EMP0479,Operations,Specialist,3.7,24.2,94.3,2,58.7,63.6,Average
+EMP0480,Technology,Specialist,7.5,24.1,94.6,1,67.3,55.9,Low
+EMP0481,Sales,Specialist,22.1,22.8,94.8,3,79.3,68.4,Average
+EMP0482,Human Resources,Associate,6.5,16.2,99.2,4,71.2,75.8,Average
+EMP0483,Sales,Associate,3.8,6.2,88.6,5,53.0,65.2,Average
+EMP0484,Operations,Specialist,0.5,25.1,94.9,2,54.2,56.8,Low
+EMP0485,Finance,Associate,17.6,14.8,100.0,2,53.4,53.5,Low
+EMP0486,Sales,Senior Specialist,6.7,25.0,85.3,5,75.9,70.2,Average
+EMP0487,Sales,Associate,5.0,14.5,94.9,4,94.8,69.1,Average
+EMP0488,Finance,Specialist,0.5,10.8,91.1,4,86.3,62.5,Average
+EMP0489,Operations,Specialist,5.1,26.8,92.1,3,47.2,44.6,Low
+EMP0490,Operations,Specialist,6.1,25.8,89.5,3,87.1,66.9,Average
+EMP0491,Human Resources,Associate,3.7,31.0,93.2,2,81.2,58.4,Low
+EMP0492,Human Resources,Associate,1.7,50.2,100.0,4,51.5,48.6,Low
+EMP0493,Operations,Team Lead,1.6,27.3,87.7,2,66.4,61.3,Average
+EMP0494,Operations,Associate,17.8,29.8,88.2,5,83.1,79.3,Average
+EMP0495,Sales,Specialist,6.0,11.1,87.5,1,76.6,73.6,Average
+EMP0496,Finance,Specialist,3.7,8.6,100.0,3,54.3,49.8,Low
+EMP0497,Technology,Specialist,5.8,43.0,91.7,2,77.3,73.0,Average
+EMP0498,Sales,Specialist,5.5,12.9,93.9,4,44.3,55.0,Low
+EMP0499,Human Resources,Team Lead,1.5,11.5,92.0,4,67.3,60.5,Average
+EMP0500,Finance,Team Lead,10.2,23.5,89.3,5,83.7,84.5,High
